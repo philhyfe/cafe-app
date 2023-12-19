@@ -1,2 +1,2 @@
-# cafe-app
-Code snippet for the cafe app layer
+# Application layer
+Code snippet for the application layer
